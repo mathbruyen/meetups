@@ -16,3 +16,6 @@
 [submodule "2014-02-20/world-in-conflict"]
 	path = 2014-02-20/world-in-conflict
 	url = https://github.com/mathbruyen/nodejsconfit2014.git
+[submodule "2014-02-20/mathsync-demoapp"]
+	path = 2014-02-20/mathsync-demoapp
+	url = https://github.com/mathbruyen/mathsync-demo.git
