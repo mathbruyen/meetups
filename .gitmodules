@@ -13,3 +13,6 @@
 [submodule "2013-02-21/workshop-slides"]
 	path = 2013-02-21/workshop-slides
 	url = https://github.com/mathbruyen/kissingturtles-handson
+[submodule "2014-02-20/world-in-conflict"]
+	path = 2014-02-20/world-in-conflict
+	url = https://github.com/mathbruyen/nodejsconfit2014.git
